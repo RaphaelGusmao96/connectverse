@@ -8,8 +8,6 @@
 }
 
 body {
-    width: 100%;
-    height: 100%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -120,7 +118,7 @@ body {
     align-items: center;
     padding: 0.4rem;
     margin-top: 1rem;
-    height: 100vh;
+    min-height: calc(100vh - 3rem); /* Altura mínima do conteúdo principal */
   }
 
 
@@ -149,7 +147,14 @@ body {
     width: 70%;
   }
 
-  #diorama {
+  .link {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #diorama,
+  #minigame,
+  #chatt {
     background-color: rgba(71, 151, 221, 0);
     font-size: 1.3rem;
     font-weight: bolder;
@@ -157,11 +162,54 @@ body {
     color: #48485d;
     padding: 0.2rem 0.8rem 0.08rem 0.8rem;
     margin-top: 1rem;
-    margin-bottom: 1.25rem;
     border-radius: 1.25rem;
+    margin-right: 10px;
+    flex-grow: 1; /* Permite que os elementos cresçam e encolham */
+    max-width: 200px; /* Define a largura máxima dos elementos */
   }
-
-  #diorama:hover {
+  
+  #diorama:last-child,
+  #minigame:last-child,
+  #chatt:last-child {
+    margin-right: 0;
+  }
+  
+  #diorama:hover,
+  #minigame:hover,
+  #chatt:hover {
     background-color: rgba(68, 122, 248, 0.281);
     color: #fff;
+    text-decoration: none;
   }
+  
+  @media (max-width: 600px) {
+    .link {
+      flex-wrap: wrap; /* Permite que os elementos quebrem para a próxima linha */
+    }
+  
+    #diorama,
+    #minigame,
+    #chatt {
+      margin-bottom: 10px; /* Adiciona espaçamento entre os elementos quando em uma nova linha */
+    }
+  }
+
+  footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgba(5, 5, 5, 0.178);
+    height: 3rem;
+    
+  }
+
+  #rodape {
+    color: #fffbfb;
+    
+  }
+
+
+  
+  
+  
