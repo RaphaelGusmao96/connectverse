@@ -1,0 +1,11 @@
+Model Information:
+* title:	cyberpunk voxel building
+* source:	https://sketchfab.com/3d-models/cyberpunk-voxel-building-7d1021bead4d4265be2e81737ba5a7ec
+* author:	antoniojmonteiro (https://sketchfab.com/antoniojmonteiro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "cyberpunk voxel building" (https://sketchfab.com/3d-models/cyberpunk-voxel-building-7d1021bead4d4265be2e81737ba5a7ec) by antoniojmonteiro (https://sketchfab.com/antoniojmonteiro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

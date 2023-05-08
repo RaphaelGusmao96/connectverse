@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hover car
+* source:	https://sketchfab.com/3d-models/hover-car-703eba5d2b60405dbeaf53552331ec24
+* author:	Ihor SDK (https://sketchfab.com/Igor.Friedman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hover car" (https://sketchfab.com/3d-models/hover-car-703eba5d2b60405dbeaf53552331ec24) by Ihor SDK (https://sketchfab.com/Igor.Friedman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

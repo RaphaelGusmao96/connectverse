@@ -1,0 +1,11 @@
+Model Information:
+* title:	BEETLE TOY CAR
+* source:	https://sketchfab.com/3d-models/beetle-toy-car-5c2e39d9b3654acd94ad2dbb329577d8
+* author:	les83machines (https://sketchfab.com/les83machines)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BEETLE TOY CAR" (https://sketchfab.com/3d-models/beetle-toy-car-5c2e39d9b3654acd94ad2dbb329577d8) by les83machines (https://sketchfab.com/les83machines) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

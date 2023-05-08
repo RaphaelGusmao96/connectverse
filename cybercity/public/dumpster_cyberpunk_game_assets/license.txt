@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dumpster (CyberPunk) Game Assets
+* source:	https://sketchfab.com/3d-models/dumpster-cyberpunk-game-assets-b0d0304c927b450d904163fa43978519
+* author:	EXHALE (https://sketchfab.com/design.ruben)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dumpster (CyberPunk) Game Assets" (https://sketchfab.com/3d-models/dumpster-cyberpunk-game-assets-b0d0304c927b450d904163fa43978519) by EXHALE (https://sketchfab.com/design.ruben) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

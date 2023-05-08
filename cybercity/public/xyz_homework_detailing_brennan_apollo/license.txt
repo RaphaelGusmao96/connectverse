@@ -1,0 +1,11 @@
+Model Information:
+* title:	XYZ Homework (Detailing) Brennan Apollo
+* source:	https://sketchfab.com/3d-models/xyz-homework-detailing-brennan-apollo-79554821d7764826a78e0533e63424c6
+* author:	Sergey Shadurskiy (https://sketchfab.com/Yippie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "XYZ Homework (Detailing) Brennan Apollo" (https://sketchfab.com/3d-models/xyz-homework-detailing-brennan-apollo-79554821d7764826a78e0533e63424c6) by Sergey Shadurskiy (https://sketchfab.com/Yippie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Virtual stage Cyberpunk
+* source:	https://sketchfab.com/3d-models/virtual-stage-cyberpunk-0e2c915556ae42ffb659b37810133bb5
+* author:	sameka (https://sketchfab.com/sameka)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Virtual stage Cyberpunk" (https://sketchfab.com/3d-models/virtual-stage-cyberpunk-0e2c915556ae42ffb659b37810133bb5) by sameka (https://sketchfab.com/sameka) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

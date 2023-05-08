@@ -1,0 +1,11 @@
+Model Information:
+* title:	lowPoly lowRes buildings
+* source:	https://sketchfab.com/3d-models/lowpoly-lowres-buildings-5e1c256f7d5f46a18cfe83f46d8d45c9
+* author:	ribot02 (https://sketchfab.com/ribot02)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "lowPoly lowRes buildings" (https://sketchfab.com/3d-models/lowpoly-lowres-buildings-5e1c256f7d5f46a18cfe83f46d8d45c9) by ribot02 (https://sketchfab.com/ribot02) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

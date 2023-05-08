@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cyberpunk skyscraper
+* source:	https://sketchfab.com/3d-models/cyberpunk-skyscraper-5392c4e6daf944b3a17b43a58b55fe08
+* author:	Artemis (https://sketchfab.com/ArtemMaksi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberpunk skyscraper" (https://sketchfab.com/3d-models/cyberpunk-skyscraper-5392c4e6daf944b3a17b43a58b55fe08) by Artemis (https://sketchfab.com/ArtemMaksi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
