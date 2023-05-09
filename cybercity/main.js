@@ -1,6 +1,6 @@
-import * as THREE from 'three';
-import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
-import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
+import * as THREE from './node_modules/three';
+import { GLTFLoader } from './node_modules/three/examples/jsm/loaders/GLTFLoader';
+import { OrbitControls } from './node_modules/three/examples/jsm/controls/OrbitControls';
 
 
 const scene = new THREE.Scene();
